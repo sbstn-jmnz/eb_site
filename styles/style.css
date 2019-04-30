@@ -1,0 +1,12 @@
+  body{
+    background-color:lightblue;
+  }
+  p{
+    color:orange;
+  }
+  #special_p{
+    color: yellow;
+  }
+ .front_page{
+  color: green;
+ }
